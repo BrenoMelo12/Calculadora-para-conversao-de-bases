@@ -14,15 +14,6 @@ O usuário informa:
 3. A base para a qual deseja converter.
 Depois disso, o programa realiza a conversão e apresenta o resultado no proprio terminal.
 
-##  Bases disponíveis
-
- Base  Sistema Símbolos 
--------------------------
-| 2 | Binário | 0 e 1 |
-| 8 | Octal | 0 até 7 |
-| 10 | Decimal | 0 até 9 |
-| 16 | Hexadecimal | 0 até 9 e A até F |
-
 ##  Como funciona
 
 O programa realiza a conversão em duas etapas principais.
